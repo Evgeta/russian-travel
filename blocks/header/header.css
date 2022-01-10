@@ -3,6 +3,8 @@
   align-items: center;
   justify-content: space-between;
 
+  width: calc(100% - 2 * 48px);
+
 
 /*  height: 100vh;
   min-height: 600px;
