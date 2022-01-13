@@ -4,10 +4,11 @@
   font-size: 72px;
   line-height: 1.05;
   text-align: center;
-  z-index: 2;
+  z-index: 1;
   margin: 0;  /**/
   padding-bottom: 32px;
-  opacity: 1;
+  color: white;
+
   /* text-rendering: optimizeLegibility; */
 }
 
