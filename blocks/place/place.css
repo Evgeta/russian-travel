@@ -10,6 +10,12 @@
   margin: 0;
 }
 
-    /* .place:first-of-type {
-      padding-top: 0;
-    } */
+.place:first-of-type {
+   padding-top: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    grid-gap: 48px 32px;
+    }
+ }
