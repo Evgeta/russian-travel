@@ -1,22 +1,14 @@
 .footer__link {
   font-size: 16px;
   line-height: 1.12;
-  text-decoration: none;
-  color: white;
   padding-right: 18px;
   margin: 0;
   /* transition: opacity 0.2s ease-in; */
-
 }
 
 .footer__link:last-of-type {
    /* margin: 0;  */
-  /* padding-right: 0; */
-
-}
-
-.footer__link:hover {
-  opacity: 0.8;
+  padding-right: 0;
 }
 
 @media screen and (max-width: 767px) {
