@@ -1,0 +1,12 @@
+.intro__info-block {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+@media screen and (min-width: 1024px) {
+  .intro__info-block {
+    width: 690px;
+  }
+}
