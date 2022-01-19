@@ -1,28 +1,25 @@
 .intro {
-  /* display: flex;
-  flex-direction: column;
-  justify-content: flex-start; */
   margin: 0;
   padding: 64px 0 0;
-  width: calc(100% - 16px * 2);
+  width: calc(100% - 32px);
 }
 
 @media screen and (min-width: 768px) {
   .intro {
-    width: calc(100% - 24px * 2);
+    width: calc(100% - 48px);
     padding: 88px 0 0;
   }
 }
 
 @media screen and (min-width: 1024px) {
   .intro {
-    width: calc(100% - 48px * 2);
+    width: calc(100% - 96px);
   }
 }
 
 @media screen and (min-width: 1280px) {
   .intro {
-    width: calc(100% - 148px * 2);
+    width: calc(100% - 296px);
     padding-top: 92px;
   }
 }
