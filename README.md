@@ -34,6 +34,8 @@
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
-Чеклист по проекту [Чеклист](https://drive.google.com/file/d/1QiCLYUKVQQua2vP0GpNLMY1VdKJ2Ule-/view?usp=sharing)
+Чеклист по проекту [Чеклист](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)
+
+[Ссылка на проект](https://evgeta.github.io/russian-travel/)
 
 
