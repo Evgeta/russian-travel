@@ -3,5 +3,11 @@
   list-style-type: none;
   column-gap: 18px;
   margin: 0;
-  padding: 46px 0 0;
+  padding: 30px 0 0;
+}
+
+@media screen and (min-width: 768px) {
+  .header__lang-links {
+    padding: 46px 0 0;
+  }
 }
