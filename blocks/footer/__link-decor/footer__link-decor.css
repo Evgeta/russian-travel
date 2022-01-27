@@ -1,8 +1,8 @@
-.link-decor {
+.footer__link-decor {
   text-decoration: none;
   color: white;
 }
 
-.link-decor:hover {
+.footer__link-decor:hover {
   opacity: 0.8;
 }
